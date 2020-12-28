@@ -1,5 +1,3 @@
-::
-
     $ vagrant up
     $ vagrant ssh node1
     vagrant@node1:~$ sudo su
