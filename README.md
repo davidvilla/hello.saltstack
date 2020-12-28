@@ -1,3 +1,5 @@
+Minimal ready-to-use saltstack setup (master+minion) on a vagrant environment
+    
     $ vagrant up
     $ vagrant ssh node1
     vagrant@node1:~$ sudo su
