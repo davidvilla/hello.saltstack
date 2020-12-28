@@ -1,4 +1,4 @@
-Minimal ready-to-use saltstack setup (master+minion) on a vagrant environment
+Minimal ready-to-use [SaltStack](https://www.saltstack.com/) setup (master+minion) on a vagrant environment
     
     $ vagrant up
     $ vagrant ssh node1
